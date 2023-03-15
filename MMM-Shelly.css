@@ -1,0 +1,37 @@
+﻿.MMM-Shelly div.container {
+    margin: 0px;
+    padding: 0px;
+}
+
+.MMM-Shelly p.bottom {
+    margin: 0px;
+    padding: 12px;
+    font-size: 60%;
+    line-height: 100%;
+    float: right;
+    clear: right
+}
+
+.MMM-Shelly div.right {
+    float: right;
+    padding-left:10px;
+}
+
+.MMM-Shelly div.newline {
+    padding-left:10px;
+    clear: right;
+}
+
+.MMM-Shelly div sup {
+    vertical-align: super;
+    font-size: 60%;
+    padding-right: 10px;
+}
+
+.MMM-Shelly .power {
+	color: lightgreen;
+}
+
+.MMM-Shelly .total {
+	color: lightgreen;
+}

@@ -15,9 +15,9 @@ Add this to your config file:
 	module: "MMM-Shelly",
 	header: "⚡ Solar",
 	position: "top_right",
-    config: {
-        ip: "192.168.1.12",
-        username: "admin",
+    	config: {
+        	ip: "192.168.1.12",
+       	 	username: "admin",
 		password: "admin"
 	}
 }

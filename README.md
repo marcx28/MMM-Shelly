@@ -1,4 +1,4 @@
-# New Document# MMM-Shelly
+# MMM-Shelly
 
 This is a simple MagicMirror module to display the current power, total power of today and temperature of a Shelly sensor. I only tested it with a Shelly Plug S sensor so I do not know if the module works with other Shelly  sensors too. Currently the module does not support an unauthenticated web interface but will be added later. Just set a user and password in the web interface (Internet and Security -> Restrict Login).
 
